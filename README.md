@@ -1,6 +1,6 @@
 # Mini Buckets
 
-Mobile-first collection tracker PWA, version 1.0.0.
+Mobile-first collection tracker PWA, version 1.0.1.
 
 Features: Store/color dropdowns with + New choices, notes, quantity, lid flag, search/filter/sort, duplicate protection, 16 seeded buckets (11 varieties), offline cache, JSON backup/restore, CSV export.
 
